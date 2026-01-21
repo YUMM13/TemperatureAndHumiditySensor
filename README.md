@@ -10,3 +10,8 @@ Now that the data is stored, I can query it from Power BI. I downloaded the ODBC
 Overall, this was a great project. I learned about embedded systems and got a taste of programming devices for the Internet of Things. I'm glad that I applied more of my AWS knowledge.
 
 Below are the plotted results of my readings and the architecture diagram of the services used.
+
+<img width="1164" height="654" alt="Charts" src="https://github.com/user-attachments/assets/152b37ad-8fdb-445d-9f53-c0abd93b7b86" />
+
+
+<img width="618" height="351" alt="TempAndHumiditySensor drawio" src="https://github.com/user-attachments/assets/04925c9d-5843-47fb-8c97-1580eafa8c88" />
