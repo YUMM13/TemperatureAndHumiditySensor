@@ -2,6 +2,7 @@
 I built this project because I wanted to try out embedded programming at the beginning of 2026. Once I had a working circuit, I combined it with my current knowledge of AWS to create an IoT data pipeline.
 
 Here is how I structured it:
+
 <img width="618" height="351" alt="TempAndHumiditySensor drawio" src="https://github.com/user-attachments/assets/04925c9d-5843-47fb-8c97-1580eafa8c88" />
 
 I utilized a temperature and humidity sensor to collect data from my room using an ESP32 as the microcontroller. The ESP32 has built-in WiFi and Bluetooth capabilities, which allowed me to send the collected data to the Cloud via the internet using the MQTT protocol.
